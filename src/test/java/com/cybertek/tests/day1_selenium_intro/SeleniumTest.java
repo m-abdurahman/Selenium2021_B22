@@ -18,6 +18,8 @@ public class SeleniumTest {
         //3- Go to https://www.google.com
         driver.get("https://www.google.com");
 
+
+
     }
 
 }
